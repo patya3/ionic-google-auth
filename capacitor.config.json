@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "io.ionic.googleLogin",
   "appName": "testApp",
   "bundledWebRuntime": false,
   "npmClient": "npm",
